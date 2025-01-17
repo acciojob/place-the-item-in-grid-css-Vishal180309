@@ -4,11 +4,4 @@ grid-template-columns: repeat(2, 1fr);
 grid-template-rows: repeat(2, 1fr);
 width: 200px;
 height: 200px;
-grid-gap: 0;
-}
-
-.item {
-background-color: #ccc;
-padding: 20px;
-border: 1px solid #aaa;
 }
